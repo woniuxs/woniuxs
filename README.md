@@ -10,7 +10,7 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=woniuxs&theme=transparent&show_icons=true&hide_border=true" /> 
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<img align="center" width="400" src="https://streak-stats.demolab.com?user=woniuxs&theme=onedark-duo&hide_border=true&locale=zh_Hans&date_format=%5BY%20%5DM%20j" />
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=alantang1977&theme=onedark-duo&hide_border=true&locale=zh_Hans&date_format=%5BY%20%5DM%20j" />
 <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" />
